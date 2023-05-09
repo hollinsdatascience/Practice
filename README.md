@@ -18,3 +18,4 @@ Names of editors:
 * Abhigya Tamang 
 * Joselinne Piedras-Sarabia
 * Shania Braithwaite
+* Andrea Gomez Munza
