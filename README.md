@@ -11,6 +11,7 @@ Names of editors:
 * Sujata Bhandari
 * Crisina Pokhrel
 * Sandipa Lamichhane
+* Callie Russell
 * Mai Nguyen
 * Abhigya Tamang 
 * Joselinne Piedras-Sarabia
