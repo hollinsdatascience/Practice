@@ -16,3 +16,4 @@ Names of editors:
 * Mai Nguyen
 * Abhigya Tamang 
 * Joselinne Piedras-Sarabia
+* Shania Braithwaite
