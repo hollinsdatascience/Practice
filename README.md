@@ -1,6 +1,6 @@
 # Practice
 
-This is a practice repository for students to try out GitHub and learn about source control.
+This is a practice repository for data science students to try out GitHub and learn about source control.
 
 Names of editors: 
 
