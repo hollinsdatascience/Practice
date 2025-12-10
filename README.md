@@ -20,3 +20,4 @@ Names of editors:
 * Shania Braithwaite
 * Andrea Gomez Munza
 * Van Le
+* Beth K
